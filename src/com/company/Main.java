@@ -24,5 +24,10 @@ public class Main {
         */
         Consoantes consoantes = new Consoantes();
         consoantes.consoantes();
+
+        //Gere e imprima uma matriz  4x4 com valores aleatorios entre 0-9
+        Matriz matriz = new Matriz();
+        matriz.imprimir();
+
     }
 }
